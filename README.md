@@ -18,7 +18,7 @@ Business Information & Digital Transformation Student 📊 | Mobile & Web Fronte
 
 ```javascript
 const raniaAli = {
-  role: "BIDT Student & Frontend Developer",
+  role: "University Student in Business Information & Digital Transformation (BIDT) & Frontend Developer",
 
   languages: [
     "Arabic (Native)",
